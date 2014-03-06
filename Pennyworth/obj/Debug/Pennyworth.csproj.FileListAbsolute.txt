@@ -1,0 +1,10 @@
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\bin\Debug\Pennyworth.exe.config
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\bin\Debug\Pennyworth.exe
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\bin\Debug\Pennyworth.pdb
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\obj\Debug\Pennyworth.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\obj\Debug\Pennyworth.frmMain.resources
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\obj\Debug\Pennyworth.Properties.Resources.resources
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\obj\Debug\Pennyworth.csproj.GenerateResource.Cache
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\obj\Debug\Pennyworth.exe
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\obj\Debug\Pennyworth.pdb
+C:\Users\Ray\Documents\Projects\Pennyworth\Pennyworth\bin\Debug\Definitions.xml

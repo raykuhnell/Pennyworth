@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<definitions>
+  <!--
+  <definition>
+    <name>Documents</name>
+    <command>explorer.exe</command>
+    <arguments>
+      <argument>{Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)}</argument>
+    </arguments>
+    <tags>
+      <tag>My Documents</tag>
+      <tag>MyDocuments</tag>
+    </tags>
+    <icon></icon>
+  </definition>
+  -->
+  <definition>
+    <name>Command Prompt</name>
+    <command>cmd.exe</command>
+    <tags>
+      <tag>cmd</tag>
+    </tags>
+    <icon></icon>
+  </definition>
+  <definition>
+    <name>Registry Editor</name>
+    <command>regedit.exe</command>
+    <tags>
+      <tag>regedit</tag>
+    </tags>
+    <icon></icon>
+  </definition>
+  <definition>
+    <name>Windows Explorer</name>
+    <command>explorer.exe</command>
+    <tags>
+      <tag>Explorer</tag>
+    </tags>
+    <icon></icon>
+  </definition>
+</definitions>
